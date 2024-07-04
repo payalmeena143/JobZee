@@ -1,4 +1,4 @@
-# Pre-Requisite
+## Pre-Requisite
 ReactJs
 
 Bootstrap
@@ -9,14 +9,14 @@ MongoDB
 
 NodeJs
 
-# To run the Backend Folder do:
+## To run the Backend Folder do:
 npm init
 
 npm install
 
-# Make your own config file for coudinary API Key
+## Make your own config file for coudinary API Key
 
-# After doing all the above do:
+## After doing all the above do:
 npm run dev
 
 

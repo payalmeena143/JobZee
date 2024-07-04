@@ -14,7 +14,7 @@ npm init
 
 npm install
 
-## Make your own config file for coudinary API Key
+## Make your own config file for cloudinary API Key
 
 ## After doing all the above do:
 npm run dev

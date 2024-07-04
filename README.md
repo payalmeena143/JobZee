@@ -19,5 +19,14 @@ npm install
 ## After doing all the above do:
 npm run dev
 
+## To run the frontend Folder do
+npm init
+
+npm install
+
+## Lastly run the command 
+
+npm run start
+
 
 
